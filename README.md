@@ -1,8 +1,5 @@
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saad%20Shakeel&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Generative%20AI%20|%20LLMs%20|%20RAG%20|%20AI%20Agents&descSize=16&descAlignY=51)
 
-<h1 align="center">Hi 👋, I'm Saad Shakeel</h1>
-<h3 align="center">AI Engineer | Generative AI | LLMs | RAG | AI Agents | Deep Learning</h3>
-
+![GitHub Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3,5,7&height=300&section=header&text=Saad%20Shakeel&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20Tomorrow's%20AI/ML%20%7C%20GenAI%20•%20LLMs%20•%20RAG%20•%20Agents&descSize=22&descAlignY=60)
 
 ---
 
